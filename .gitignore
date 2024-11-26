@@ -1,0 +1,7 @@
+# Ignorar archivos de copia de seguridad
+*~
+*.bak
+*.swp
+
+# Ignorar archivos de texto
+*.txt
